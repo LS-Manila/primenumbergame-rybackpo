@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeNumberGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="prime_composite">Is the following number Prime or Composite?</string>
+    <string name="prime">PRIME</string>
+    <string name="composite">Composite</string>
+</resources>
